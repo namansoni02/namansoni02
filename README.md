@@ -10,3 +10,7 @@
 namansoni02/namansoni02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+### 🐍 Watch the Snake Eat My Contributions!
+
+![Snake animation](https://github.com/namansoni02/namansoni02/blob/output/github-contribution-grid-snake.svg)
+
