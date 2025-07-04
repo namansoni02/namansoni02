@@ -9,7 +9,7 @@
 - 🌱 Currently exploring **DSA**, **Web Development**, and **System Design**
 - 💬 Ask me about **C++**, **Python**, **JavaScript**
 - 💼 Looking for **internships**, **collaborations**, and open source contributions
-- 📫 Reach me via: [namansoniop@gmail.com] | [LinkedIn](www.linkedin.com/in/naman-soni-a46931290)
+- 📫 Reach me via: namansoniop@gmail.com | [LinkedIn](www.linkedin.com/in/naman-soni-a46931290)
 - ⚡ Fun fact: I can write code with music blasting in the background 🎧
 
 ---
