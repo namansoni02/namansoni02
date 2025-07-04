@@ -26,9 +26,9 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
+<h3 align="center">
+  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="25"/> GitHub Analytics
+</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=namansoni02&show_icons=true&theme=tokyonight" width="48%" />
 </p>
