@@ -12,7 +12,7 @@ jobs:
       - name: generate snake gif
         uses: Platane/snk@v3
         with:
-          github_user_name: NamanSoni119
+          github_user_name: namansoni02
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
