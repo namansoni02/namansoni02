@@ -23,7 +23,6 @@ B.Tech CSE @ IIT Jodhpur • Competitive Programmer • Aspiring Software Engine
 - 🧠 Strong interest in **Data Structures & Algorithms** and **Competitive Programming**
 - 🌐 Building full-stack projects using **MERN stack**
 - 🏗️ Exploring **System Design**, **Distributed Systems**, and **Scalable Architectures**
-- ⚙️ Curious about **event-driven systems**, **message queues**, and **load balancing**
 - 🤝 Open to **internships**, **collaborations**, and **open-source contributions**
 
 > I enjoy going beyond “just making it work” — I like understanding *why* systems behave the way they do.
@@ -95,6 +94,3 @@ B.Tech CSE @ IIT Jodhpur • Competitive Programmer • Aspiring Software Engine
 - 🧮 **Codeforces**: https://codeforces.com/profile/namansoni02  
 
 ---
-
-⚡ *Fun fact*: I debug faster with music blasting in the background 🎧  
-☕ *Also true*: I think better system designs come after failed ones.
