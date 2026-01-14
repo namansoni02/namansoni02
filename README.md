@@ -20,23 +20,23 @@ B.Tech CSE @ IIT Jodhpur • Competitive Programmer • Aspiring Software Engine
 ## 👨‍💻 About Me
 
 - 🎓 **B.Tech in Computer Science** at **IIT Jodhpur**
-- 🧠 Focused on **Data Structures & Algorithms** and **Competitive Programming**
-- 🌐 Building projects using the **MERN stack**
-- 🏗️ Exploring **System Design**, **Distributed Systems**, and **Scalable Architectures**
-- ⚙️ Interested in **event-driven systems**, **message queues**, and backend performance
-- 🤝 Open to **internships**, **collaborations**, and **open-source contributions**
+- 🧠 Strong focus on **DSA & Competitive Programming**
+- 🌐 Building full-stack projects using **MERN**
+- 🏗️ Exploring **System Design**, **Distributed Systems**, and **Scalable Backends**
+- ⚙️ Interested in **event-driven architecture**, **message queues**, and infra basics
+- 🤝 Open to **internships**, **collaborations**, and **open-source work**
 
-> I enjoy understanding how systems scale, break, and recover — not just how to code them.
+> I like understanding how systems scale, fail, and recover — not just how to implement them.
 
 ---
 
 ## 🚀 Current Focus
 
-- 📌 Advanced problem solving (CF / LeetCode style)
-- 🧩 Backend APIs (auth, async workflows, clean architecture)
-- 🧪 Writing production-grade **Node.js / Express** services
-- ☁️ Learning **Docker**, **Kubernetes (Minikube)**, and deployments
-- 🏗️ Studying system design trade-offs and infra fundamentals
+- Advanced problem solving (Codeforces / LeetCode)
+- Backend APIs (auth, async flows, clean architecture)
+- Production-grade **Node.js / Express**
+- **Docker**, **Kubernetes (Minikube)**, deployment basics
+- Core system design fundamentals
 
 ---
 
@@ -79,7 +79,7 @@ B.Tech CSE @ IIT Jodhpur • Competitive Programmer • Aspiring Software Engine
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namansoni02&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=namansoni02&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -94,9 +94,9 @@ B.Tech CSE @ IIT Jodhpur • Competitive Programmer • Aspiring Software Engine
 
 ## 🧠 Competitive Programming
 
-- 💡 Regularly practice algorithmic problem solving
-- 🏁 Platforms: **Codeforces**, **LeetCode**
-- 🛠️ Comfortable with:
+- Regular algorithmic problem solving
+- Platforms: **Codeforces**, **LeetCode**
+- Comfortable with:
   - DP, Graphs, Trees
   - Greedy, Binary Search
   - Bitmasking, Number Theory
@@ -113,4 +113,4 @@ B.Tech CSE @ IIT Jodhpur • Competitive Programmer • Aspiring Software Engine
 ---
 
 ⚡ *Fun fact*: I debug faster with music blasting 🎧  
-☕ *Belief*: Good systems are built by breaking bad ones first.
+☕ *Belief*: Good engineers learn most from broken systems.
