@@ -1,116 +1,81 @@
-<h1 align="center">Hi 👋, I'm Naman Soni</h1>
-<h3 align="center">
-B.Tech CSE @ IIT Jodhpur • Competitive Programmer • Aspiring Software Engineer
-</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+I'm+Naman+Soni;B.Tech+CSE+%40+IIT+Jodhpur;Competitive+Programmer;Full+Stack+Developer" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/naman-soni-a46931290">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/naman-soni-a46931290" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:namansoniop@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/profile/namansoni02">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white"/>
+  <a href="https://codeforces.com/profile/namansoni02" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
 
----
+<br/>
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.Tech in Computer Science** at **IIT Jodhpur**
-- 🧠 Strong focus on **DSA & Competitive Programming**
-- 🌐 Building full-stack projects using **MERN**
-- 🏗️ Exploring **System Design**, **Distributed Systems**, and **Scalable Backends**
-- ⚙️ Interested in **event-driven architecture**, **message queues**, and infra basics
-- 🤝 Open to **internships**, **collaborations**, and **open-source work**
+I am a **Computer Science Undergraduate at IIT Jodhpur** with a passion for **Algorithmic Problem Solving** and **Scalable System Design**. I bridge the gap between complex algorithms and production-level backend engineering.
 
-> I like understanding how systems scale, fail, and recover — not just how to implement them.
+- 🔭 I’m currently working on **High-concurrency Backend Systems** and **Microservices**.
+- 🌱 I’m learning **Distributed Systems** and **Kubernetes Orchestration**.
+- 🏆 **Competitive Programming:** Active on Codeforces & LeetCode (Focus: DP, Graphs, Trees).
+- ⚡ **Philosophy:** *Good engineers learn most from broken systems.*
 
 ---
 
-## 🚀 Current Focus
+## 🛠️ Tech Stack
 
-- Advanced problem solving (Codeforces / LeetCode)
-- Backend APIs (auth, async flows, clean architecture)
-- Production-grade **Node.js / Express**
-- **Docker**, **Kubernetes (Minikube)**, deployment basics
-- Core system design fundamentals
+<div align="center">
 
----
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Backend** | ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![K8s](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
-## 🧰 Tech Stack
-
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-</p>
-
-### Web & Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Project Name 1** | A brief description of your best backend/MERN project. Mention if it uses WebSockets, Auth, or specific algorithms. | ![Node](https://img.shields.io/badge/Node-green) ![React](https://img.shields.io/badge/React-blue) |
+| **Project Name 2** | Description of a system design or CLI tool you built. Maybe something related to your CP scripts or a Dockerized app. | ![C++](https://img.shields.io/badge/C++-blue) ![Docker](https://img.shields.io/badge/Docker-blue) |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/namansoni02">
+  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=namansoni02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/namansoni02">
+  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namansoni02&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  </a>
+</div>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<h3 align="center">🏆 Competitive Programming</h3>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/namansoni02?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  </div>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namansoni02&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namansoni02&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=100&section=footer"/>
 </p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=namansoni02&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=namansoni02&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🧠 Competitive Programming
-
-- Regular algorithmic problem solving
-- Platforms: **Codeforces**, **LeetCode**
-- Comfortable with:
-  - DP, Graphs, Trees
-  - Greedy, Binary Search
-  - Bitmasking, Number Theory
-  - Edge-case driven optimization
-
----
-
-## 📫 Let’s Connect
-
-- 📧 **Email**: namansoniop@gmail.com  
-- 💼 **LinkedIn**: https://www.linkedin.com/in/naman-soni-a46931290  
-- 🧮 **Codeforces**: https://codeforces.com/profile/namansoni02  
-
----
-
-⚡ *Fun fact*: I debug faster with music blasting 🎧  
-☕ *Belief*: Good engineers learn most from broken systems.
