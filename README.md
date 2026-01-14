@@ -20,22 +20,23 @@ B.Tech CSE @ IIT Jodhpur • Competitive Programmer • Aspiring Software Engine
 ## 👨‍💻 About Me
 
 - 🎓 **B.Tech in Computer Science** at **IIT Jodhpur**
-- 🧠 Strong interest in **Data Structures & Algorithms** and **Competitive Programming**
-- 🌐 Building full-stack projects using **MERN stack**
+- 🧠 Focused on **Data Structures & Algorithms** and **Competitive Programming**
+- 🌐 Building projects using the **MERN stack**
 - 🏗️ Exploring **System Design**, **Distributed Systems**, and **Scalable Architectures**
+- ⚙️ Interested in **event-driven systems**, **message queues**, and backend performance
 - 🤝 Open to **internships**, **collaborations**, and **open-source contributions**
 
-> I enjoy going beyond “just making it work” — I like understanding *why* systems behave the way they do.
+> I enjoy understanding how systems scale, break, and recover — not just how to code them.
 
 ---
 
-## 🚀 What I’m Currently Working On
+## 🚀 Current Focus
 
-- 📌 Advanced **DSA & problem solving** (Codeforces, LeetCode style)
-- 🧩 Backend architecture patterns (auth, queues, async workflows)
-- 🧪 Production-grade **Node.js / Express APIs**
-- ☁️ Learning **Docker, Kubernetes (Minikube)** and deployment workflows
-- 🏗️ Thinking about **scalability, fault tolerance, and clean system design**
+- 📌 Advanced problem solving (CF / LeetCode style)
+- 🧩 Backend APIs (auth, async workflows, clean architecture)
+- 🧪 Writing production-grade **Node.js / Express** services
+- ☁️ Learning **Docker**, **Kubernetes (Minikube)**, and deployments
+- 🏗️ Studying system design trade-offs and infra fundamentals
 
 ---
 
@@ -69,21 +70,37 @@ B.Tech CSE @ IIT Jodhpur • Competitive Programmer • Aspiring Software Engine
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namansoni02&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namansoni02&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=namansoni02&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namansoni02&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namansoni02&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=namansoni02&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 ## 🧠 Competitive Programming
 
-- 💡 Regularly practice **problem solving** and algorithmic thinking
+- 💡 Regularly practice algorithmic problem solving
 - 🏁 Platforms: **Codeforces**, **LeetCode**
 - 🛠️ Comfortable with:
   - DP, Graphs, Trees
   - Greedy, Binary Search
   - Bitmasking, Number Theory
-  - Optimization & edge-case handling
+  - Edge-case driven optimization
 
 ---
 
@@ -94,3 +111,6 @@ B.Tech CSE @ IIT Jodhpur • Competitive Programmer • Aspiring Software Engine
 - 🧮 **Codeforces**: https://codeforces.com/profile/namansoni02  
 
 ---
+
+⚡ *Fun fact*: I debug faster with music blasting 🎧  
+☕ *Belief*: Good systems are built by breaking bad ones first.
