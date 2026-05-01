@@ -1,6 +1,6 @@
-<!-- HERO -->
 <div align="center">
 
+<!-- HERO -->
 <h1>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=%3E+hello%2C+world!+%F0%9F%91%BE;I'm+Naman+Soni." alt="Typing SVG" />
 </h1>
@@ -14,14 +14,12 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/namansoni02)
 ![Visitor Count](https://komarev.com/ghpvc/?username=namansoni02&style=for-the-badge&color=58a6ff&label=VIEWS)
 
-</div>
-
 ---
 
 ## 🧑‍💻 &nbsp; About
 
 | | |
-|---|---|
+|:---:|:---|
 | 🎓 **Education** | B.Tech CSE @ IIT Jodhpur |
 | 🌱 **Learning** | DSA · Web Dev · System Design |
 | 🛠️ **Building** | Full-Stack Apps (MERN and Spring) |
@@ -60,8 +58,6 @@
 
 ## 📊 &nbsp; GitHub Stats
 
-<div align="center">
-
 <img height="175"
   src="https://github-readme-stats.vercel.app/api?username=namansoni02&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&cache_seconds=1800"
 />
@@ -76,32 +72,18 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=namansoni02&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800"
 />
 
-</div>
-
 ---
 
 ## 📈 &nbsp; Contribution Graph
 
-<div align="center">
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=namansoni02&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true)](https://github.com/namansoni02)
-
-</div>
 
 ---
 
 ## 🏆 &nbsp; Trophies
 
-<div align="center">
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=namansoni02&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/namansoni02)
 
-</div>
-
----
-
-
-<div align="center">
 
 *"First, solve the problem. Then, write the code."*
 
