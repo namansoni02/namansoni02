@@ -22,8 +22,9 @@
 |:---:|:---|
 | 🎓 **Education** | B.Tech CSE @ IIT Jodhpur |
 | 🌱 **Learning** | DSA · Web Dev · System Design |
-| 🛠️ **Building** | Full-Stack Apps (MERN and Spring) |
+| 🛠️ **Building** | Full-Stack Apps (MERN) |
 | 💬 **Languages** | C++ · Python · JavaScript |
+| 💼 **Open to** | Internships 2025 · Open Source · Collaborations |
 | ⚡ **Fun fact** | Code quality +200% with music on 🎧 |
 
 ---
@@ -58,8 +59,10 @@
 
 ## 📊 &nbsp; GitHub Stats
 
+
+&nbsp;
 <img height="175"
-  src="https://github-readme-stats.vercel.app/api?username=namansoni02&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&cache_seconds=1800"
+  src="https://streak-stats.demolab.com?user=namansoni02&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&cache_seconds=1800"
 />
 
 <br/><br/>
@@ -76,6 +79,18 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=namansoni02&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/namansoni02)
 
+---
+
+## 🎯 &nbsp; Current Focus
+
+| Tag | Goal |
+|:---:|:---|
+| `DSA` | Mastering Data Structures & Algorithms in C++ |
+| `MERN` | Building full-stack apps with the MERN stack |
+| `Systems` | Learning System Design fundamentals |
+| `Careers` | Hunting for SDE internships for 2025 |
+
+---
 
 *"First, solve the problem. Then, write the code."*
 
