@@ -68,10 +68,6 @@
 
 <br/><br/>
 
-<img height="150"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=namansoni02&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800"
-/>
-
 ---
 
 ## 📈 &nbsp; Contribution Graph
