@@ -61,10 +61,6 @@
 <img height="175"
   src="https://github-readme-stats.vercel.app/api?username=namansoni02&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&cache_seconds=1800"
 />
-&nbsp;
-<img height="175"
-  src="https://streak-stats.demolab.com?user=namansoni02&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&cache_seconds=1800"
-/>
 
 <br/><br/>
 
