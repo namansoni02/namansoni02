@@ -23,9 +23,7 @@
 | 🎓 **Education** | B.Tech CSE @ IIT Jodhpur |
 | 🌱 **Learning** | DSA · Web Dev · System Design |
 | 🛠️ **Building** | Full-Stack Apps (MERN + Spring) |
-| 💬 **Languages** | C++ · Python · JavaScript |
-| 💼 **Open to** | Internships 2025 · Open Source · Collaborations |
-| ⚡ **Fun fact** | Code quality +200% with music on 🎧 |
+| 💬 **Languages** | C++ · Python · JavaScript · Java |
 
 ---
 
@@ -75,11 +73,5 @@
 
 ---
 
-## 🏆 &nbsp; Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=namansoni02&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/namansoni02)
-
-
-*"First, solve the problem. Then, write the code."*
 
 </div>
